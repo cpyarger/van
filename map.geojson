@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#45ff06",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-name": "Bonita Point Parking Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.52944201231001,
+          37.82192104637063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#45ff06",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-name": "Muir Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.57547676563262,
+          37.861280818550796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#76ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-name": "Rodeo Beach Parking Lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53669470548631,
+          37.83183816345492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4796897172928,
+          37.83252241868286
+        ]
+      }
+    }
+  ]
+}
