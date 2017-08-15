@@ -4,10 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#45ff06",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Bonita Point Parking Lot"
+        "Name": "Bonita Point Parking Lot",
+        "Website": "site",
+        "Address": "place"
       },
       "geometry": {
         "type": "Point",
@@ -20,10 +19,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#45ff06",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Muir Beach"
+        "Name": "Muir Beach"
       },
       "geometry": {
         "type": "Point",
@@ -36,10 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#45ff06",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Rodeo Beach Parking Lot"
+        "Name": "Rodeo Beach Parking Lot"
       },
       "geometry": {
         "type": "Point",
@@ -52,8 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#45ff06",
-        "marker-name": "Vista Point"
+        "Name": "Vista Point"
       },
       "geometry": {
         "type": "Point",
@@ -66,10 +58,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#45ff06",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "marker-name": "Scott's Resevoir"
+        "Name": "Scott's Resevoir"
       },
       "geometry": {
         "type": "Point",
