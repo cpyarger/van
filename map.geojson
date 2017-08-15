@@ -36,7 +36,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#76ff00",
+        "marker-color": "#45ff06",
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-name": "Rodeo Beach Parking Lot"
@@ -51,7 +51,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#45ff06",
+        "marker-name": "Vista Point"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -62,7 +65,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#45ff06",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-name": "Scott's Resevoir"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
